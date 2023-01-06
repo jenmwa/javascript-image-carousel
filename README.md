@@ -19,4 +19,4 @@ en bildkarusell, där bilderna ligger i en array i vår javascript, och där du 
 * LightHouse Accessibility ✅
 
 ## Länk till Live - version
-https://jenmwa.github.io/Javascript-Img-Carousel/
+https://jenmwa.github.io/javascript-image-carousel/
