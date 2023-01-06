@@ -1,0 +1,30 @@
+{
+  "name": "slideshow",
+  "version": "1.0.0",
+  "description": "Slideshow demo",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Medieinstitutet/fed22d-js-slideshow.git"
+  },
+  "keywords": [
+    "javascript",
+    "slideshow"
+  ],
+  "author": "FED22D/Medieinstitutet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Medieinstitutet/fed22d-js-slideshow/issues"
+  },
+  "homepage": "https://github.com/Medieinstitutet/fed22d-js-slideshow#readme",
+  "devDependencies": {
+    "eslint": "^7.32.0 || ^8.2.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-import": "^2.25.2",
+    "prettier": "^2.7.1"
+  }
+}

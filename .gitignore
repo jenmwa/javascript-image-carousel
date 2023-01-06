@@ -1,0 +1,36 @@
+# Project files
+cheatsheet
+assets/fed22d.png
+
+# Generated files and folders
+/dist
+*.css.map
+
+# JS ecosystem
+node_modules
+
+# Operating System junk
+Desktop.ini
+Thumbs.db
+.Spotlight-V100
+.Trashes
+.DS_Store
+
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
