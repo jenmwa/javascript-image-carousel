@@ -14,9 +14,5 @@ en bildkarusell, där bilderna ligger i en array i vår javascript, och där du 
 * Prettier
 * Eslint
 
-## Validering
-
-* LightHouse Accessibility ✅
-
 ## Länk till Live - version
 https://jenmwa.github.io/javascript-image-carousel/
